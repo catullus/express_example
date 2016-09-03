@@ -1,1 +1,5 @@
-txttt
+resources
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+https://shapeshed.com/creating-a-basic-site-with-node-and-express/
